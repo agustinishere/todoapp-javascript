@@ -94,6 +94,7 @@ form button:hover {
 .completed {
   text-decoration: line-through;
   opacity: 0.5;
+  color: red;
 }
 
 /*CUSTOM SELECTOR */
